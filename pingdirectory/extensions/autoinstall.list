@@ -1,0 +1,16 @@
+#
+# This file may contain a list of extensions to install
+#
+
+#
+# This extension delivers a plugin that generates a UUID
+#
+ds-plugin-uuid
+
+#
+# This extension delivers a plugin that provides a mechanism
+# to manipulate user state over LDAP
+#
+ds-plugin-pwp-user-state
+
+# END - do not remove line
